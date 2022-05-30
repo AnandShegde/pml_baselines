@@ -6,4 +6,4 @@ We compare:
 * MCMC- Markov Chain Monte Carlo
 * ajax - Variational Inference using ajax.
 * Laplace Approximation
-* stan - Variational Inference using Stan
+* PyStan - Variational Inference using Stan
