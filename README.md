@@ -9,7 +9,7 @@ We compare:
 * PyStan - Variational Inference using Stan
 
 
-# Coin toss Problem
+# 1. Coin toss Problem
 ## Stan
 
 ```
@@ -40,4 +40,5 @@ model {
 |Laplace Approximation| RMH in Blackjax|
 |![laplace_coin_toss](https://user-images.githubusercontent.com/79975787/171648134-c6a32162-5fcb-4619-8c64-93bac8f4c6a9.jpeg)|![mcmc_coin_toss](https://user-images.githubusercontent.com/79975787/171648139-3571aab4-54fa-4f4f-9adf-de6418fdf772.jpeg)|
 
-
+# 2. Linear Regression
+# 3. Logistic Regression
