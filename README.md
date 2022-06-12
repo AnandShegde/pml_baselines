@@ -34,8 +34,13 @@ model {
 
 ## Results
 View the results here-https://anandshegde.github.io/pml_baselines/results/coin_toss/coin_toss_results.html
-![image](https://user-images.githubusercontent.com/79975787/173233408-139781fc-60c9-4bc6-9313-cef9235e7376.png)
+![image](https://user-images.githubusercontent.com/79975787/173255249-357a40f8-966a-48d3-8446-f90266b981b0.png)
 
 # 2. Linear Regression
+View the results here-https://anandshegde.github.io/pml_baselines/results/linear_regression/linear_regression_results.html
+![image](https://user-images.githubusercontent.com/79975787/173254412-4c99a5e4-4006-43a2-91b1-8ac351670543.png)
+
 # 3. Logistic Regression
 View the results here-https://anandshegde.github.io/pml_baselines/results/logistic_regression/logistic_regression_results.html
+![image](https://user-images.githubusercontent.com/79975787/173255290-4ad7edf1-990b-4263-a799-d68266ccad9d.png)
+
