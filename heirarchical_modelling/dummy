@@ -1,9 +1,0 @@
-def plot_rmh_array(states_position)
-    fig, (ax,ax1) = plt.subplots(1,2,figsize=(13,5))
-    for i in range(states_position.shape[1]):
-        ax.plot(states_position[:,i],alpha=0.5)
-        ax.set_title('trace plot')
-        ax.axvline(x=burnin, c="tab:red")
-        # ax1.hist(states_position[burnin:,i],density=True)
-        sns.kdeplot(states_position[burnin:,i],ax=ax1)
-    plt.show()
