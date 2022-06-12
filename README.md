@@ -38,3 +38,4 @@ View the results here-https://anandshegde.github.io/pml_baselines/results/coin_t
 
 # 2. Linear Regression
 # 3. Logistic Regression
+View the results here-https://anandshegde.github.io/pml_baselines/results/logistic_regression/logistic_regression_results.html
