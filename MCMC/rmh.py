@@ -26,7 +26,7 @@ def rmh_inference_loop(dist_numerator,sigma_rmh,params,num_samples):
 
 def plot_rmh(states,burnin,contains_arrays=False):
     for key in states.position:
-        if not contains_arrays:
+        if jnp.ndim(states.position[key])==1:
             fig, (ax,ax1) = plt.subplots(1,2,figsize=(13,5))
             ax.plot(states.position[key])
             ax.set_title('trace plot')
@@ -42,7 +42,7 @@ def plot_rmh(states,burnin,contains_arrays=False):
                 plt.savefig('figures/'+key+'.jpeg')
             plt.show()
         
-        if contains_arrays:
+        else:
             for i in range(states.position[key].shape[1]):
                 fig, (ax,ax1) = plt.subplots(1,2,figsize=(8,3))
                 ax.plot(states.position[key][:,i])
