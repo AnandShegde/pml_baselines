@@ -4,7 +4,7 @@ import optax
 
 def train_model(model, data, optimizer, n_epochs, seed):
     params = model.init(seed)
-    value_and_grad_fn = jax.value_and_grad(model.loss_fn)
+    value_and_grad_fn = jax.value_and_grad(model.loss_fun)
     state = optimizer.init(params)
 
     @jax.jit
