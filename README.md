@@ -44,3 +44,6 @@ View the results here-https://anandshegde.github.io/pml_baselines/results/linear
 View the results here-https://anandshegde.github.io/pml_baselines/results/logistic_regression/logistic_regression_results.html
 ![image](https://user-images.githubusercontent.com/79975787/173255290-4ad7edf1-990b-4263-a799-d68266ccad9d.png)
 
+# 4. Weibull Poisson
+View the results here-https://anandshegde.github.io/pml_baselines/results/weibull_poisson/weibull_poisson_results.html 
+![weibull_poisson](https://user-images.githubusercontent.com/54628243/173325147-914e1672-c73f-4e35-bf77-d8ca1a1f22cd.png)
