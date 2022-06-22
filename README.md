@@ -34,7 +34,9 @@ model {
 
 ## Results
 View the results here-https://anandshegde.github.io/pml_baselines/results/coin_toss/coin_toss_results.html
-![image](https://user-images.githubusercontent.com/79975787/173255249-357a40f8-966a-48d3-8446-f90266b981b0.png)
+<!-- ![image](https://user-images.githubusercontent.com/79975787/173255249-357a40f8-966a-48d3-8446-f90266b981b0.png)
+ -->
+ ![coin toss results](https://user-images.githubusercontent.com/79975787/175093288-25f1fd87-4cfb-49d8-aa86-1d594de123f4.png)
 
 # 2. Linear Regression
 View the results here-https://anandshegde.github.io/pml_baselines/results/linear_regression/linear_regression_results.html
